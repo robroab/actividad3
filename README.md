@@ -1,5 +1,20 @@
-Nombre del proyecto: Hola Mundo php
-Descripción: hola mundo en php con una imagen utilizando html
-Prerrequisitos (tecnologías a instalar): ubuntu server, php, apache2, vs code, ssh.
-Pasos para su ejecución: abrir la dirección ip_address/hola.php
-Datos del autor (nombre, correo, carnet): Rodrigo Barrios, rodrigobarrios65@gmail.com, 23004799
+# Nombre del proyecto: 
+Hola Mundo PHP 
+
+## Descripción: 
+Hola mundo en PHP con una imagen utilizando HTML. 
+
+## Prerrequisitos (tecnologías a instalar): 
+- Ubuntu Server
+- PHP
+- Apache2
+- VS Code
+- SSH 
+
+## Pasos para su ejecución: 
+1. Abrir la dirección `ip_address/hola.php` en un navegador web. 
+
+## Datos del autor: 
+- Nombre: Rodrigo Barrios 
+- Correo: rodrigobarrios65@gmail.com 
+- Carnet: 23004799
